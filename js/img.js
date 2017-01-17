@@ -1,0 +1,12 @@
+var img_bg = new Image();
+img_bg.src = "image/sky.jpg";
+var img_aircraft = new Image();
+img_aircraft.src = "image/own.png";
+var img_enemy = new Image();
+img_enemy.src = "image/foe.png";
+var img_effects = new Image();
+img_effects.src="image/bang.png";
+// var img5 = new Image();
+// img5.src = "image/life.png";
+// var img6 = new Image();
+// img6.src="image/allb.png";
